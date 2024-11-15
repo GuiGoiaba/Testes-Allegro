@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/guilherme/Programacao/Projetos Pessoais/Allegro/allegro-5.2.9.1",
+    "files.associations": {
+        "allegro5.h": "c"
+    }
+}
